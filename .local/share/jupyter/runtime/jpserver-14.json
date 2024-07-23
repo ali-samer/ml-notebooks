@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/ali-samer-ml-notebooks-fnptmztf/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 14,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "M8FFw1woTJWM9sFqVXzt1w",
+  "url": "http://jupyter-ali-2dsamer-2dml-2dnotebooks-2dfnptmztf:8888/binder/jupyter/user/ali-samer-ml-notebooks-fnptmztf/",
+  "version": "2.14.1"
+}
